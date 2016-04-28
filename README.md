@@ -1,2 +1,0 @@
-# requirements
-Master SE requirements
